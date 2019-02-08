@@ -44,3 +44,11 @@ The assignment is split into two parts: the first part consists of workshops and
 - Daniel Shiffman – The Nature of Code
 
 ## What we've discussed in class
+
+- [Davide Quayola - Live with Mira Calix](https://www.quayola.com/live-with-mira-calix/)
+- [Onformative - Collide](https://onformative.com/work/collide)
+- [United Visual Artists - Massive Attack](http://uva.co.uk/works/massive-attack-collaborations)
+- [Ryoji Ikeda - Data.Matrix](https://www.youtube.com/watch?v=k3J4d4RbeWc)
+- [Pfadfinderei - Moderat III Live](http://pfadfinderei.com/project/moderat3live/) & [Performance](https://www.youtube.com/watch?v=ljQTVp7-kSs)
+- [Prins & van Boven - Black Smoking Mirror](http://www.474746.org/pages/bsm.html) & [Talk](https://vimeo.com/fiberfestival/cm9#t=579s)
+- [LUST - Type/Dynamics](https://vimeo.com/123597888)
