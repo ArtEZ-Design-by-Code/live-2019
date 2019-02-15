@@ -43,6 +43,10 @@ The assignment is split into two parts: the first part consists of workshops and
 - Daniel Shiffman – Learning Processing: A Beginner’s Guide to Programming Images, Animation and Interaction
 - Daniel Shiffman – The Nature of Code
 
+## Tools and libraries
+- [Orca Sequencer](https://github.com/hundredrabbits/Orca) and [Introduction](https://www.youtube.com/watch?v=RaI_TuISSJE)
+- [The MidiBus](http://www.smallbutdigital.com/projects/themidibus/)
+
 ## What we've discussed in class
 
 - [Davide Quayola - Live with Mira Calix](https://www.quayola.com/live-with-mira-calix/)
@@ -52,3 +56,5 @@ The assignment is split into two parts: the first part consists of workshops and
 - [Pfadfinderei - Moderat III Live](http://pfadfinderei.com/project/moderat3live/) & [Performance](https://www.youtube.com/watch?v=ljQTVp7-kSs)
 - [Prins & van Boven - Black Smoking Mirror](http://www.474746.org/pages/bsm.html) & [Talk](https://vimeo.com/fiberfestival/cm9#t=579s)
 - [LUST - Type/Dynamics](https://vimeo.com/123597888)
+- [Fjaak - Super Smash Visual](https://www.youtube.com/watch?v=_nJ97MDD1Bk)
+- [Thomas Jumin - Randy (for Justice)](https://www.youtube.com/watch?v=PLOyUQxIsj8)
