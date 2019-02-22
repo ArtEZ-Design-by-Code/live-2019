@@ -46,6 +46,8 @@ The assignment is split into two parts: the first part consists of workshops and
 ## Tools and libraries
 - [Orca Sequencer](https://github.com/hundredrabbits/Orca) and [Introduction](https://www.youtube.com/watch?v=RaI_TuISSJE)
 - [The MidiBus](http://www.smallbutdigital.com/projects/themidibus/)
+- [ControlP5](http://www.sojamo.de/libraries/controlP5/)
+
 
 ## What we've discussed in class
 
